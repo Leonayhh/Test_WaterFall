@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E36B80A463980E5BF3800293F9A1207C1FDE746D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B1702B1EE25D3346AD72DD0C9DF63899FCA3B066" : 9223372036854775807,
+    "E36B80A463980E5BF3800293F9A1207C1FDE746D" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6B7DB630-40F7-4ACC-8735-6FFEEA872D0E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B1702B1EE25D3346AD72DD0C9DF63899FCA3B066" : "%E7%94%BB%E6%9D%BF\/%E7%94%BB%E6%9D%BF\/",
+    "E36B80A463980E5BF3800293F9A1207C1FDE746D" : "%E7%94%BB%E6%9D%BF\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "画板",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "画板.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/huihuiYan\/Draw.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B1702B1EE25D3346AD72DD0C9DF63899FCA3B066"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/huihuiYan\/-.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E36B80A463980E5BF3800293F9A1207C1FDE746D"
+    }
+  ]
+}
